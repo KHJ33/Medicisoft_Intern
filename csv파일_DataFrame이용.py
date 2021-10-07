@@ -5,7 +5,7 @@ np.set_printoptions(threshold=np.inf,linewidth=np.inf)
 
 xlsx = pd.read_csv('C:/Users/mdc_int_94/Desktop/11.csv')
 #print(xlsx.info())
-
+#
 
 df = pd.DataFrame(xlsx)
 columns = df.columns
